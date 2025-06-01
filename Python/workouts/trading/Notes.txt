@@ -1,9 +1,0 @@
-PS C:\Users\prath\OneDrive\Downloads\trading> python -m venv .venv
-PS C:\Users\prath\OneDrive\Downloads\trading> .\.venv\Scripts\activate
-(.venv) PS C:\Users\prath\OneDrive\Downloads\trading> pip install -r requirements.txt
-(.venv) PS C:\Users\prath\OneDrive\Downloads\trading> python.exe -m pip install --upgrade pip
-(.venv) PS C:\Users\prath\OneDrive\Downloads\trading> django-admin.exe startproject algotrade
-(.venv) PS C:\Users\prath\OneDrive\Downloads\trading\algotrade> mkdir -p api\backdata
-(.venv) PS C:\Users\prath\OneDrive\Downloads\trading\algotrade> python.exe .\manage.py startapp backdata api/backdata
-(.venv) PS C:\Users\prath\OneDrive\Downloads\trading\algotrade> mkdir -p api\thirdparty
-(.venv) PS C:\Users\prath\OneDrive\Downloads\trading\algotrade> python.exe .\manage.py startapp thirdparty api/thirdparty

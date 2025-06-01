@@ -1,8 +1,0 @@
-django
-django-cors-headers
-djangorestframework
-drf_yasg
-python-dotenv
-requests
-ijson
-setuptools
