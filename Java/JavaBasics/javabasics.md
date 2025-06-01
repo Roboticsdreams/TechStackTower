@@ -1,9 +1,3 @@
-<style>
-.green-check {
-    color: green;
-}
-</style>
-
 # Java Basics Guide
 
 ## Getting Started
@@ -11,26 +5,26 @@
 <details>
 <summary>Installation</summary>
 
-- [<span class="green-check">✓</span>] JDK Installation
-- [<span class="green-check">✓</span>] IDE Setup (IntelliJ IDEA/Eclipse)
-- [<span class="green-check">✓</span>] Environment Variables
-- [<span class="green-check">✓</span>] First Java Program
-- [<span class="green-check">✓</span>] Running Java Programs
+- [x] JDK Installation
+- [x] IDE Setup (IntelliJ IDEA/Eclipse)
+- [x] Environment Variables
+- [x] First Java Program
+- [x] Running Java Programs
 </details>
 
 <details>
 <summary>Basic Syntax</summary>
 
-- [<span class="green-check">✓</span>] Comments
-- [<span class="green-check">✓</span>] Package Declaration
-- [<span class="green-check">✓</span>] Import Statements
-- [<span class="green-check">✓</span>] Class Declaration
-- [<span class="green-check">✓</span>] Main Method
-- [<span class="green-check">✓</span>] Comments
-- [<span class="green-check">✓</span>] Package Declaration
-- [<span class="green-check">✓</span>] Import Statements
-- [<span class="green-check">✓</span>] Class Declaration
-- [<span class="green-check">✓</span>] Main Method
+- [x] Comments
+- [x] Package Declaration
+- [x] Import Statements
+- [x] Class Declaration
+- [x] Main Method
+- [x] Comments
+- [x] Package Declaration
+- [x] Import Statements
+- [x] Class Declaration
+- [x] Main Method
 </details>
 
 ## Core Concepts
