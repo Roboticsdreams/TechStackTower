@@ -3,7 +3,7 @@
 ## Beginner Level
 
 ### Core Java Concepts
-- [ ] Java Basics
+- [ ] Java Basics(./JavaBasics/javabasics.md)
   - [ ] Installation and Setup
   - [ ] Hello World Program
   - [ ] Variables and Data Types
