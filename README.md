@@ -9,7 +9,7 @@ This repository contains comprehensive learning roadmaps for various technologie
 - [Java](./Java/roadmap.md)
 - [Python](./Python/roadmap.md)
 - [JavaScript](./Javascript/roadmap.md)
-- [Node.js](./Node.js/roadmap.md)
+- [Node.js](./Nodejs/roadmap.md)
 - [Perl](./Perl/roadmap.md)
 - [SQL](./SQL/roadmap.md)
 
