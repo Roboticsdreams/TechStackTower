@@ -1,0 +1,20 @@
+
+bin\windows\zookeeper-server-start.bat config\zookeeper.properties
+bin\windows\kafka-server-start.bat config\server.properties
+
+PS C:\Users\prath> cd C:\PortableApps\kafka\
+PS C:\PortableApps\kafka> bin\windows\kafka-topics.bat --create --topic quickstart-events --bootstrap-server localhost:9092
+Created topic quickstart-events.
+PS C:\PortableApps\kafka>
+
+
+PS C:\PortableApps\kafka> bin\windows\kafka-topics.bat --describe --topic quickstart-events --bootstrap-server localhost:9092
+[2024-09-28 09:53:27,080] WARN [AdminClient clientId=adminclient-1] The DescribeTopicPartitions API is not supported, using Metadata API to describe topics. (org.apache.kafka.clients.admin.KafkaAdminClient)
+Topic: quickstart-events        TopicId: qV_QGgLJSQ2VhUcWBXREAw PartitionCount: 1       ReplicationFactor: 1    Configs:
+        Topic: quickstart-events        Partition: 0    Leader: 0       Replicas: 0     Isr: 0  Elr: N/A        LastKnownElr: N/A
+PS C:\PortableApps\kafka>
+
+ bin\windows\kafka-console-producer.bat --topic quickstart-events --bootstrap-server localhost:9092
+
+
+bin\windows\kafka-console-consumer.bat --topic quickstart-events --from-beginning --bootstrap-server localhost:9092

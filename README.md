@@ -1,23 +1,26 @@
 # TechStackTower
 
-Welcome to TechStackTower!
+Welcome to TechStackTower! 🏗️
 
 This repository contains comprehensive learning roadmaps for various technologies and programming languages. Each roadmap is designed to guide you from beginner to advanced levels with practical project ideas and best practices.
 
-## Table of Contents
+## Programming Languages
 
-### Programming Languages
 - [Java](./Java/roadmap.md)
 - [Python](./Python/roadmap.md)
 - [JavaScript](./Javascript/roadmap.md)
+- [Node.js](./Node.js/roadmap.md)
 - [Perl](./Perl/roadmap.md)
 - [SQL](./SQL/roadmap.md)
 
-### Web Development
+## Web Development
+
 - [React](./React/roadmap.md)
 - [Spring Boot](./SpringBoot/roadmap.md)
 
-### Architecture & Design
+## Architecture & Design
+
+- [AWS](./AWS/roadmap.md)
 - [Microservices](./Microservices/roadmap.md)
 - [Full Stack Development](./FullStack/roadmap.md)
 
@@ -44,4 +47,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-This repository is a living document and will be updated regularly with new technologies and improvements. Happy learning!
+This repository is a living document and will be updated regularly with new technologies and improvements. Happy learning! 🚀

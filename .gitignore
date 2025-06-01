@@ -1,0 +1,168 @@
+# General
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Python
+*.py[cod]
+__pycache__/
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.jks
+*.keystore
+.mtj.tmp/
+*.apt_generated
+*.class
+*.log
+*.pyc
+*.sav
+*.ser
+*.tmp
+
+# Node.js
+node_modules/
+.npm
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npmrc
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build
+build/
+out/
+dist/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Database
+*.sqlite3
+*.db
+*.sqlite
+
+# Cache
+.cache/
+*.cache
+.cache
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage
+coverage/
+*.cover
+*.lcov
+
+# Test
+coverage/
+*.coverage
+*.cover
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Documentation
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Editor
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+*.iml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Documentation
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
